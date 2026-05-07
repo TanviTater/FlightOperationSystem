@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    font-family: 'Dosis', sans-serif;
+    background: linear-gradient(135deg, #081428, #0b1f3a);
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 20px;
+    color: #7dd3fc;
+}
+.form-box {
+    background: rgba(15,35,60,0.6);
+    padding: 20px;
+    margin: 20px auto;
+    width: 400px;
+    border-radius: 10px;
+}
+input {
+    width: 90%;
+    padding: 10px;
+    margin: 8px;
+    border-radius: 5px;
+    border: none;
+}
+button {
+    padding: 8px 14px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    background: #1f4e79;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #255d99;
+}
+table {
+    margin: 20px auto;
+    width: 90%;
+    border-collapse: collapse;
+    background: rgba(15,35,60,0.6);
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #fff;
+}
+
+th {
+    background: #1f4e79;
+}
+
+tr:hover {
+    background: rgba(37,93,153,0.6);
+}

@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Dosis', sans-serif;
+    background: linear-gradient(135deg, #081428, #0f2744);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.mainDiv {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    text-align: center;
+}
+h1 {
+    font-size: 38px;
+    color: #7dd3fc;
+    text-shadow: 0 0 12px rgba(125, 211, 252, 0.4);
+    margin-bottom: 40px;
+}
+.btn-group {
+    display: flex;
+    flex-direction: column;  
+    gap: 18px;
+    align-items: center;
+}
+
+input[type="submit"] {
+    width: 220px; 
+    padding: 14px;
+
+    border-radius: 8px;
+    border: 1px solid rgba(125, 211, 252, 0.4);
+
+    background: rgba(15, 35, 60, 0.7);
+    color: #e0f2fe;
+
+    font-size: 15px;
+    cursor: pointer;
+    transition: all 0.25s ease;
+
+    backdrop-filter: blur(6px);
+}
+input[type="submit"]:hover {
+    background: rgba(30, 80, 130, 0.8);
+    box-shadow: 0 0 15px rgba(125, 211, 252, 0.6);
+    transform: translateY(-2px);
+}
+footer {
+    text-align: center;
+    color: rgba(200, 220, 255, 0.7);
+    padding: 15px 0;
+}
