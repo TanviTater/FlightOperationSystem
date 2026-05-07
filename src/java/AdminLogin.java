@@ -18,7 +18,7 @@ public class AdminLogin extends HttpServlet {
             Connection con = DriverManager.getConnection(
                 "jdbc:mysql://localhost:3306/flight_ops?useSSL=false&serverTimezone=UTC",
                 "root",
-                "Tanvi@2003"
+                "your_password"
             );
             PreparedStatement ps = con.prepareStatement(
                 "SELECT * FROM admin905 WHERE username=?");
