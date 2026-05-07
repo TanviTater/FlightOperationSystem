@@ -402,8 +402,6 @@ http://localhost:8080/Project
 
 ## Tanvi Tater
 
-B.Tech CSE Student  
-Java Full Stack & Web Development Enthusiast
 
 ---
 
