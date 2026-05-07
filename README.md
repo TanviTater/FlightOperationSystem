@@ -211,31 +211,31 @@ flight_ops
 
 ## 🏠 Home Page
 
-<img width="100%" src="images/home.png">
-
----
-
-## 🌍 Flight Routes Viewer
-
-<img width="100%" src="images/routes.png">
+<img width="100%" alt="Home Page" src="https://github.com/user-attachments/assets/88a1fa9e-39c0-4a49-ba8d-4fe735a307ba">
 
 ---
 
 ## 🔐 Admin Login
 
-<img width="100%" src="images/login.png">
+<img width="100%" alt="Flight Routes Viewer" src="https://github.com/user-attachments/assets/81d23bbc-75f1-4650-a0e9-3054c3872039">
+
+---
+
+## 🌍 Flight Routes Viewer
+
+<img width="100%" alt="Admin Login" src="https://github.com/user-attachments/assets/7de5b15e-45a6-4fa9-bbe9-66e5e48edafe">
 
 ---
 
 ## 🛫 Manage Flights Panel
 
-<img width="100%" src="images/manageflights.png">
+<img width="100%" alt="Manage Flights Panel" src="https://github.com/user-attachments/assets/d28a5f24-a60e-4094-acbe-9324b0ebc592">
 
 ---
 
 ## 👑 Controller Dashboard
 
-<img width="100%" src="images/controller.png">
+<img width="100%"  alt="Controller Dashboard" src="https://github.com/user-attachments/assets/edea193c-15bf-4d05-a2d5-afc0b2b2f2a3" />
 
 ---
 
