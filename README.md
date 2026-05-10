@@ -334,7 +334,7 @@ Connection con = DriverManager.getConnection(
 # ▶️ Run the Project
 
 ```bash
-git clone https://github.com/your-username/FlightOperationSystem.git
+git clone https://github.com/TanviTater/FlightOperationSystem.git
 ```
 
 Open in NetBeans and deploy using GlassFish.
